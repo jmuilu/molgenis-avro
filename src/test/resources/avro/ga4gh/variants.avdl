@@ -216,7 +216,6 @@ record Variant {
   array<Call> calls = [];
 
 
-  Call testByJuha;
 }
 
 }
